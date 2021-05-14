@@ -36,3 +36,4 @@ Semantic Segmentation
 ---
 - 2020 ECCV [Object-Contextual Representations for Semantic
 Segmentation](https://arxiv.org/pdf/1909.11065)
+- zczhu [Deep Dual-resolution Networks for Real-time and Accurate Semantic Segmentation of Road Scenes](https://arxiv.org/pdf/2101.06085v1.pdf)
