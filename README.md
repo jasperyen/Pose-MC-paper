@@ -21,9 +21,9 @@ Human Pose
 - jcyan 2020 ECCV [Point-Set Anchors for Object Detection, Instance Segmentation and Pose Estimation](https://arxiv.org/pdf/2007.02846)
 - jcyan 2020 TPAMI [Deep High-Resolution Representation Learning for Visual Recognition](https://arxiv.org/pdf/1908.07919)
 - jcyan 2020 ECCV [Learning Delicate Local Representations for Multi-Person Pose Estimation](https://arxiv.org/pdf/2003.04030)
-- jcyan 2021 CVPR [Bottom-Up Human Pose Estimation Via Disentangled Keypoint Regression](https://arxiv.org/pdf/2104.02300)
+- jcyan xzhang 2021 CVPR [Bottom-Up Human Pose Estimation Via Disentangled Keypoint Regression](https://arxiv.org/pdf/2104.02300)
 - jcyan 2021 CVPR [Lite-HRNet: A Lightweight High-Resolution Network](https://arxiv.org/pdf/2104.06403)
-
+- xzhang 2021 CVPR [Rethinking the Heatmap Regression for Bottom-up Human Pose Estimation](https://arxiv.org/pdf/2012.15175)
 
 
 NAS & model compression
@@ -46,4 +46,5 @@ Semantic Segmentation
 - jcyan 2020 ECCV [Object-Contextual Representations for Semantic
 Segmentation](https://arxiv.org/pdf/1909.11065)
 - jcyan 2021 CVPR [Rethinking BiSeNet For Real-time Semantic Segmentation](https://arxiv.org/pdf/2104.13188)
-- zczhu 2021 [Deep Dual-resolution Networks for Real-time and Accurate Semantic Segmentation of Road Scenes](https://arxiv.org/pdf/2101.06085v1.pdf)
+- jcyan zczhu 2021 [Deep Dual-resolution Networks for Real-time and Accurate Semantic Segmentation of Road Scenes](https://arxiv.org/pdf/2101.06085v1.pdf)
+- xzhang 2021 CVPR [HyperSeg: Patch-wise Hypernetwork for Real-time Semantic Segmentation](https://arxiv.org/pdf/2012.11582)
